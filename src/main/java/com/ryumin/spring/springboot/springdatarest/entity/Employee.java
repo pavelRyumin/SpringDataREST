@@ -1,4 +1,4 @@
-package com.ryumin.spring.springboot.spring_data_jpa.entity;
+package com.ryumin.spring.springboot.springdatarest.entity;
 
 import javax.persistence.*;
 
